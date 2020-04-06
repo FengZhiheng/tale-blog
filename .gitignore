@@ -26,3 +26,4 @@ upload
 target
 tale.sql
 *.md
+!README.md
